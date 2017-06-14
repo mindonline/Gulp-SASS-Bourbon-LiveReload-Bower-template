@@ -1,7 +1,7 @@
 {
-  "name": "Gulp-SASS-Bourbon-LiverReload-Bower template",
+  "name": "landing-template",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple template for rapid landing development",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
