@@ -1,0 +1,23 @@
+{
+  "name": "Gulp-SASS-Bourbon-LiverReload-Bower template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikhail Levi",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.12",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify": "0.0.13",
+    "gulp-sass": "^2.3.2",
+    "gulp-server-livereload": "^1.8.2",
+    "gulp-stylus": "^2.5.0",
+    "gulp.spritesmith": "^6.2.1",
+    "main-bower-files": "^2.13.1",
+    "node-bourbon": "^4.2.8"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "Gulp-SASS-Bourbon-LiverReload-Bower template",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "levi mikhail <mlevi@mindonline.ru>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "~3.1.0",
+    "font-awesome": "~4.7.0",
+    "animate.css": "animate-css#~3.5.2"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js"
+      ]
+    },
+    "font-awesome":{
+      "main":[
+        "css/font-awesome.css",
+        "fonts/*"
+      ]
+    },
+    "animcate-css":{
+      "main":[
+        "animate.css"
+      ]
+    }
+  }
+}
