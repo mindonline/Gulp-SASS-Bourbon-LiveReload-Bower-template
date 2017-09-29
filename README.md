@@ -20,5 +20,6 @@ Clone this repo and then run:
 - JS files must be in ./js/ and will be minified to ./www/js
 
 ## Run Server
-Use: *server:run* to run LR HTTP server
-Default server entry point is http://localhost:3000
+Use: `server:run` to run LR HTTP server.<br/> Default server entry point is http://localhost:3000.
+
+
