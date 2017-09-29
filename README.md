@@ -1,4 +1,4 @@
-# Gulp-SASS-Bourbon-LiverReload-Bower-template
+# Gulp-SASS-Bourbon-LiveReload-Bower-template
 ## Introduction
 Simple template with live reloading for rapid landpage development.
 Features:
